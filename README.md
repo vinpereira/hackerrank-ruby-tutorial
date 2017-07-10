@@ -11,4 +11,4 @@ All solutions for the 41 Ruby Tutorial challenges from HackerRank
 - Try to solve everything by yourself (come on!!)
 - Use the codes in this repository to help if you give up
     - Copy and paste the right code in HackerRank corresponding challenge
-    - Learn what make you give up
+    - Learn what make you gave up
